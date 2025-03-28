@@ -20,6 +20,6 @@ I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel)](https://mohit-thakur.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Thakur-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-thakur/)  
 [![GitHub](https://img.shields.io/badge/GitHub-mohitthakur07-black?style=flat&logo=github)](https://github.com/mohitthakur07)  
-[![Twitter](https://img.shields.io/badge/Twitter-@mohitthakur07-blue?style=flat&logo=twitter)](https://twitter.com/mohitthakur07)  
+
 
 Let's build something **awesome together!** 🚀✨  
