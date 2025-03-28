@@ -18,8 +18,8 @@ I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and
 
 ### 📫 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel)](https://mohit-thakur.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Thakur-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-thakur/)  
-[![GitHub](https://img.shields.io/badge/GitHub-mohitthakur07-black?style=flat&logo=github)](https://github.com/mohitthakur07)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Thakur-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-kumar-thakur-b8b4572b1/)  
+
 
 
 Let's build something **awesome together!** 🚀✨  
