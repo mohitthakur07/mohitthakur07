@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer  
 
-I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and a deep interest in **Web Development, Motion Graphics, and AI/Robotics**. Currently, I'm pursuing my **MCA at Sardar Patel University (SPU), Mandi**.  
+I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and a deep interest in **Web Development, App Develoment and AI/Robotics**. Currently, I'm pursuing my **MCA at Sardar Patel University (SPU), Mandi**.  
 
 ### 💡 What I Do:
 - 🌱 **Currently learning:** Advanced React Animations, WebGL, and AI Integrations.  
@@ -11,10 +11,10 @@ I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and
 - ⚡ **Fun Fact:** I love blending creativity with code to build **engaging web experiences!**  
 
 ### 🛠 Tech Stack:
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools & Platforms:** Git, Netlify, Vercel, Firebase  
-- **Other Skills:** Video Editing, Graphic Design, Blogging  
+- **Frontend:** React.js ⚛️, Next.js 🚀, Tailwind CSS 🎨, Bootstrap 📱  
+- **Backend:** Node.js 🌐, Express.js 🚀, MongoDB 🗄️  
+- **Tools & Platforms:** Git 🐙, Netlify 🌍, Vercel ⚡, Firebase 🔥  
+- **Other Skills:** Video Editing 🎬, Graphic Design 🖌️, Blogging ✍️  
 
 ### 📫 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel)](https://mohit-thakur.netlify.app)  
