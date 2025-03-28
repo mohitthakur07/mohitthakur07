@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Mohit Thakur  
 
 ### 🚀 Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer  
+![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IyenZlZzdxdnMyajA3NXJrM2NvOWs1YjdwZWpzaWpmdmVwcmV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and a deep interest in **Web Development, App Develoment and AI/Robotics**. Currently, I'm pursuing my **MCA at Sardar Patel University (SPU), Mandi**.  
 
