@@ -15,7 +15,8 @@ I’m a passionate **Full-Stack Developer** with expertise in **MERN Stack** and
 - **Frontend:** React.js ⚛️, Next.js 🚀, Tailwind CSS 🎨, Bootstrap 📱  
 - **Backend:** Node.js 🌐, Express.js 🚀, MongoDB 🗄️  
 - **Tools & Platforms:** Git 🐙, Netlify 🌍, Vercel ⚡, Firebase 🔥  
-- **Other Skills:** Video Editing 🎬, Graphic Design 🖌️, Blogging ✍️  
+- **Other Skills:** Video Editing 🎬, Graphic Design 🖌️, Blogging ✍️
+### Most of my repositories are private — not because they’re secret, but because even my code deserves some privacy. 😎
 
 ### 📫 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel)](https://mohit-thakur.netlify.app)  
